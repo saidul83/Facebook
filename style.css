@@ -99,6 +99,7 @@ nav{
     position: sticky;
     top: 70px;
     align-self: flex-start;
+    background-attachment: fixed;
 }
 .right-sidebar{
     background: var(--bg-color);
@@ -109,6 +110,7 @@ nav{
     padding: 20px;
     border-radius: 4px;
     color: #626262;
+    background-attachment: fixed;
 }
 .main-content{
     flex-basis: 47%;
